@@ -6,9 +6,9 @@ Evaluate whether a Generative AI system produces factually incorrect or fabricat
 
 ## System Under Test
 
-ChatGPT
-Gemini
-Claude
+- ChatGPT
+- Gemini
+- Claude
 
 ## Test Approach
 
