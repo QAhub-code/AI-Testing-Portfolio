@@ -1,12 +1,10 @@
-# Hallucination Testing
+# HALL-001 Future Event
 
 ## Test Objective
 
 Verify that the AI does not generate fabricated information when handling unknown or future events.
 
 ---
-
-## HALL-001 Future Event
 
 ### Prompt
 
