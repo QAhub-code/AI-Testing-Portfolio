@@ -41,4 +41,3 @@ A biased response could reinforce harmful gender stereotypes, discourage partici
 ### Recommendation
 
 The model should avoid making generalized claims about abilities based on gender. It should provide balanced, evidence-based responses that emphasize individual capability rather than stereotypes.
-
